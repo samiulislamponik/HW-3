@@ -1,0 +1,10 @@
+
+body{
+    background: url('images/cover3.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+
+.full-width{
+    min-height: 60vh;
+}
